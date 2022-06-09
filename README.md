@@ -1,4 +1,4 @@
-# CIS63_NLPTimeSeries
+# CIS63_NLP-DL-Classification
 
 Highlights: Data pre-proccessing, model featuring, GRU, Conv-Bidrectional-LSTM, LDA<br>
 Data: tweet of twitter, twitter stock prices (daily),<br>
